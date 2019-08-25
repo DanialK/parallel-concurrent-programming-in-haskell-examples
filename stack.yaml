@@ -1,0 +1,5 @@
+require-stack-version: ">= 1.9.3"
+resolver: stack-snapshot.yaml
+
+packages:
+- .
